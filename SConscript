@@ -12,6 +12,7 @@ src/radio_comm.c
 src/radio.c
 src/si446x_api_lib.c
 src/spi.c
+src/spi_hal.c
 ''')
 
 
